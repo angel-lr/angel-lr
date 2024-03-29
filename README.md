@@ -14,10 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 Actualmente me encuentro estudiando la **Licenciatura en Ingeniería en Computación** en la Universidad Tecnológica de la Mixteca
 
 **Idiomas :** español e ingles
+
 **Languajes :** spanish and english
 
+### Estos son algunas tecnologias y lenguejes con las que estoy familiarizado 
 
-
+* c++
+* c
+* python
+* java
+* ruby
+* git
+* html
+* css
