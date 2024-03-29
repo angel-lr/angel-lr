@@ -21,14 +21,14 @@ Actualmente me encuentro estudiando la **Licenciatura en Ingeniería en Computac
 
 **Languajes :** spanish and english
 
-### Estos son algunas tecnologias y lenguejes con las que estoy familiarizado 
+### Estos son algunas tecnologias y lenguajes de programación con las que estoy familiarizado 
 
 * c++
 
     <img src="images/c++.png" width="100"/>
 * c
 
-    
+
 * python
 * java
 * ruby
