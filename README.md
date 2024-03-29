@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hola mi nombre es Angel López Ruíz 👋
 
 <!--
 **angel-lr/angel-lr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Actualmente me encuentro estudiando la **Licenciatura en Ingeniería en Computación** en la Universidad Tecnológica de la Mixteca
+
+**Idiomas :** español e ingles
+**Languajes :** spanish and english
+
+
+
