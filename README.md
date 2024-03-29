@@ -24,6 +24,7 @@ Actualmente me encuentro estudiando la **Licenciatura en Ingeniería en Computac
 ### Estos son algunas tecnologias y lenguejes con las que estoy familiarizado 
 
 * c++
+[c++](/images/c++ "c++")
 * c
 * python
 * java
@@ -31,3 +32,5 @@ Actualmente me encuentro estudiando la **Licenciatura en Ingeniería en Computac
 * git
 * html
 * css
+
+
