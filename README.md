@@ -25,9 +25,9 @@ Actualmente me encuentro estudiando la **Licenciatura en Ingeniería en Computac
 
 * c++
 
-    <img src="images/c++.png" width="100"/>
+    <img src="images/c++.png" width="100">
 * c
-
+    <img src="images/c.png" width="100">
 
 * python
 * java
