@@ -83,4 +83,23 @@ Actualmente me encuentro estudiando la **Licenciatura en Ingeniería en Computac
 
  <img src="images/linux.webp" width="100"> 
 </td>
+<td> 
+ mysql
+
+ <img src="images/mysql.webp" width="100"> 
+</td>
+</tr>
+<tr>
+<td>
+ mongodb
+
+ <img src="images/mongodb.svg" width="100"> 
+</td>
+<td>
+ c#
+
+ <img src="images/csharp.png" width="100"> 
+</td>
+</tr>
+
 </table>
