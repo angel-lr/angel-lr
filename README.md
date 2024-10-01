@@ -17,24 +17,61 @@ Here are some ideas to get you started:
 
 Actualmente me encuentro estudiando la **Licenciatura en Ingeniería en Computación** en la Universidad Tecnológica de la Mixteca
 
-**Idiomas :** español e ingles
 
 **Languajes :** spanish and english
 
 ### Estos son algunas tecnologias y lenguajes de programación con las que estoy familiarizado 
 
-* c++
+<table>
+<tr>
+<td>      
+ c++
 
-    <img src="images/c++.png" width="100">
-* c
+ <img src="images/c++.png" width="100"> 
+</td>
+<td>      
+ c
 
-    <img src="images/c.png" width="100">
+ <img src="images/c.png" width="100"> 
+</td>
+<td>      
+ java
 
-* python
-* java
-* ruby
-* git
-* html
-* css
+ <img src="images/java.png" width="100" height="100"> 
+</td>
+<td>      
+ python
 
+ <img src="images/python.png" width="100"> 
+</td>
+</tr>
+<tr>
+<td>      
+ git
 
+ <img src="images/git.png" width="100"> 
+</td>
+<td>      
+ html
+
+ <img src="images/html.webp" width="100"> 
+</td>
+<td>      
+ css
+
+ <img src="images/css.svg" width="100"> 
+</td>
+<td>      
+ javaScript
+
+ <img src="images/javascript.svg" width="100"> 
+</td>
+</tr>
+<tr>
+<td>      
+ ruby
+
+ <img src="images/ruby.png" width="100"> 
+</td>
+
+</table>
