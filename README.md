@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Soy estudiante de Ingeniería en Computación, apasionado por la tecnología y el desarrollo de soluciones innovadoras. A mis 20 años, he adquirido una sólida base en programación, algoritmos y sistemas, y me motiva el impacto que la tecnología tiene en el mundo actual. Resido en México, donde he tenido la oportunidad de involucrarme en proyectos que me han permitido aplicar mis conocimientos en situaciones reales, buscando siempre aprender más y mejorar como profesional en este campo tan dinámico.
 
 Actualmente me encuentro estudiando la **Licenciatura en Ingeniería en Computación** en la Universidad Tecnológica de la Mixteca
 
@@ -103,3 +104,4 @@ Actualmente me encuentro estudiando la **Licenciatura en Ingeniería en Computac
 </tr>
 
 </table>
+
