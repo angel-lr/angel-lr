@@ -21,7 +21,7 @@ Actualmente me encuentro estudiando la **Licenciatura en Ingeniería en Computac
 
 **Idiomas :** español e ingles
 
-### Estos son algunas tecnologias y lenguajes de programación con las que estoy familiarizado 
+### Estos son algunas tecnologias con las que estoy familiarizado : 
 
 <table>
 <tr>
@@ -47,10 +47,11 @@ Actualmente me encuentro estudiando la **Licenciatura en Ingeniería en Computac
 </td>
 </tr>
 <tr>
-<td>      
- git
 
- <img src="images/git.png" width="100"> 
+<td>
+ c#
+
+ <img src="images/csharp.png" width="100"> 
 </td>
 <td>      
  html
@@ -79,10 +80,11 @@ Actualmente me encuentro estudiando la **Licenciatura en Ingeniería en Computac
 
  <img src="images/figma.webp" width="100"> 
 </td>
-<td>      
- linux
 
- <img src="images/linux.webp" width="100"> 
+<td>
+ tailwind
+
+ <img src="images/tailwind.png" width="100"> 
 </td>
 <td> 
  mysql
@@ -96,10 +98,18 @@ Actualmente me encuentro estudiando la **Licenciatura en Ingeniería en Computac
 
  <img src="images/mongodb.svg" width="100"> 
 </td>
-<td>
- c#
+<td>      
+ git
 
- <img src="images/csharp.png" width="100"> 
+ <img src="images/git.png" width="100"> 
+</td>
+<td>      
+ linux
+
+ <img src="images/linux.webp" width="100"> 
+</td>
+<td>
+Entre otras...
 </td>
 </tr>
 
