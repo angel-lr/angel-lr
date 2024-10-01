@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Actualmente me encuentro estudiando la **Licenciatura en Ingeniería en Computación** en la Universidad Tecnológica de la Mixteca
 
 
-**Languajes :** spanish and english
+**Idiomas :** español e ingles
 
 ### Estos son algunas tecnologias y lenguajes de programación con las que estoy familiarizado 
 
@@ -73,5 +73,14 @@ Actualmente me encuentro estudiando la **Licenciatura en Ingeniería en Computac
 
  <img src="images/ruby.png" width="100"> 
 </td>
+<td>      
+ figma
 
+ <img src="images/figma.webp" width="100"> 
+</td>
+<td>      
+ linux
+
+ <img src="images/linux.webp" width="100"> 
+</td>
 </table>
